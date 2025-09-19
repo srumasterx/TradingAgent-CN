@@ -1,4 +1,5 @@
 # Python环境和缓存
+venv/
 env/
 __pycache__/
 *.pyc
